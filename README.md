@@ -90,9 +90,14 @@ minicom -b 115200 -o -D /dev/ttyACM0
 🧪 Exemplos de Saída Serial
 
 Button pressed
+
+
 Turn off green
+
 Turn off blue
+
 Turn off red
+
 Um segundo se passou!
 
 Contagem atual: 1
