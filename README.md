@@ -94,13 +94,11 @@ Turn off green
 Turn off blue
 Turn off red
 Um segundo se passou!
+
 Contagem atual: 1
 
 📚 Contribuição
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
 
-📄 Licença
-
-Este projeto está licenciado sob a MIT License.
-
+Feito por Vinicius Paz
